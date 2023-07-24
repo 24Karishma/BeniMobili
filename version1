@@ -1,5 +1,6 @@
 class Sample{
   psvm(){
     sop(sprint1)//signup
+    sop(sprint2)//login, compose(Signup)
   }
 }
